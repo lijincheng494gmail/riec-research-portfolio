@@ -34,6 +34,6 @@ The common object is not a universal predictor. It is the governance chain from 
 - It does not claim clinical readiness, neural-mechanistic discovery or universal AI-governance validity.
 - Computational neuroscience is the intended doctoral training direction, not a completed domain identity.
 
-See [`PROJECT_BOUNDARIES.md`](PROJECT_BOUNDARIES.md), [`PUBLICATION_STATUS.md`](PUBLICATION_STATUS.md) and [`AI_AND_AUTHOR_RESPONSIBILITY.md`](AI_AND_AUTHOR_RESPONSIBILITY.md) for the explicit boundaries.
+See [`PROJECT_BOUNDARIES.md`](PROJECT_BOUNDARIES.md), [`PUBLICATION_STATUS.md`](PUBLICATION_STATUS.md), [`PEER_REVIEW_AND_REVISION_HISTORY.md`](PEER_REVIEW_AND_REVISION_HISTORY.md) and [`AI_AND_AUTHOR_RESPONSIBILITY.md`](AI_AND_AUTHOR_RESPONSIBILITY.md) for the explicit boundaries, external-critique history and author-responsibility statement.
 
 Author identifier: [ORCID 0009-0001-3100-5272](https://orcid.org/0009-0001-3100-5272).

@@ -8,6 +8,8 @@ RIEC-L1 started from a concrete engineering problem: AIC, BIC, cross-validation 
 
 Food, factory, environmental, chemistry and related projects exposed recurring problems: clustered observations, mismatched deployment splits, duplicated evidence, proxy uncertainty, incompatible estimands and attractive results that did not justify the desired claim. These projects functioned as sources of design pressure rather than proof of universal cross-domain prediction.
 
+The Factory manuscript also became a documented negative development result. A substantial R1 rebuild added cluster-aware validation, two 500-repetition benchmarks, a formal guard, generator diagnostics, a limited external-validity bridge and a reproducibility package, but it did not close the independent-industrial-validation, threshold-justification, comparator and component-ablation gaps. The journal rejection therefore narrowed the scientific claim rather than being edited out of the programme history. See [`PEER_REVIEW_AND_REVISION_HISTORY.md`](PEER_REVIEW_AND_REVISION_HISTORY.md).
+
 ## 3. Neural evaluation
 
 RIEC-BCI moved the question into motor-imagery EEG. The scientific object became evaluation design itself: within-session, cross-session, cross-subject and dataset-transport worlds answer different deployment questions and can change pipeline rankings and recommendations.

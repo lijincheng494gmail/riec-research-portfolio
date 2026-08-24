@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">RIEC research trajectory</title>
+  <desc id="desc">A four-stage trajectory from finite-library conflict resolution through BCI evaluation and frozen governance to multi-agent evidence accounting.</desc>
+  <rect width="1200" height="300" fill="#ffffff"/>
+  <style>
+    .box{fill:#f5f7fa;stroke:#183b66;stroke-width:3;rx:18}
+    .title{font:700 24px Arial,sans-serif;fill:#183b66}
+    .body{font:18px Arial,sans-serif;fill:#263545}
+    .arrow{stroke:#60758a;stroke-width:5;fill:none;marker-end:url(#m)}
+  </style>
+  <defs><marker id="m" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#60758a"/></marker></defs>
+  <rect class="box" x="25" y="65" width="245" height="170"/>
+  <text class="title" x="55" y="110">RIEC-L1</text>
+  <text class="body" x="55" y="150">Finite candidate library</text>
+  <text class="body" x="55" y="182">Conflict resolution</text>
+  <path class="arrow" d="M280 150 H320"/>
+  <rect class="box" x="330" y="65" width="245" height="170"/>
+  <text class="title" x="360" y="110">RIEC-BCI</text>
+  <text class="body" x="360" y="150">Evaluation worlds</text>
+  <text class="body" x="360" y="182">Neural pipeline selection</text>
+  <path class="arrow" d="M585 150 H625"/>
+  <rect class="box" x="635" y="65" width="245" height="170"/>
+  <text class="title" x="665" y="110">RIEC-Core</text>
+  <text class="body" x="665" y="150">Frozen evidence rules</text>
+  <text class="body" x="665" y="182">Bounded claims</text>
+  <path class="arrow" d="M890 150 H930"/>
+  <rect class="box" x="940" y="65" width="235" height="170"/>
+  <text class="title" x="970" y="110">RIEC-Agent</text>
+  <text class="body" x="970" y="150">Persistent shared evidence</text>
+  <text class="body" x="970" y="182">Global accounting</text>
+</svg>

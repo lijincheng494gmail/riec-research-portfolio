@@ -11,9 +11,17 @@ RIEC began with a model-selection problem: several reasonable analysis procedure
 | Stage | Research object | Central question | Public artifact |
 |---|---|---|---|
 | RIEC-L1 | finite candidate library | How can conflicting but reasonable selection criteria be turned into an auditable engineering decision? | [paper](https://doi.org/10.1016/j.array.2026.101097), [repository](https://github.com/lijincheng494gmail/riec-l1-conflict-resolution) |
-| RIEC-BCI | motor-imagery EEG evaluation | How does the deployment world change apparent pipeline performance, ranking and recommendation? | [repository](https://github.com/lijincheng494gmail/riec-bci) |
+| RIEC-BCI | motor-imagery EEG evaluation | How does the deployment world change apparent pipeline performance, ranking and recommendation? | journal manuscript submitted after transfer; preprint pending; [repository](https://github.com/lijincheng494gmail/riec-bci) |
 | RIEC-Core | protocol, evidence, action and claim | Which qualified evidence is allowed to support which bounded scientific claim after the rules are frozen? | [preprint](https://doi.org/10.2139/ssrn.7264499), [repository](https://github.com/lijincheng494gmail/riec-core) |
-| RIEC-Agent | persistent multi-agent evidence use | Why can locally compliant agents still lose global error control, and can persistent accounting improve the safety-discovery trade-off? | [repository](https://github.com/lijincheng494gmail/riec-agent) |
+| RIEC-Agent | persistent multi-agent evidence use | Why can locally compliant agents still lose global error control, and can persistent accounting improve the safety-discovery trade-off? | [preprint](https://doi.org/10.2139/ssrn.7298738), [repository](https://github.com/lijincheng494gmail/riec-agent) |
+
+## Cross-domain development applications
+
+Before Core was frozen, several public application manuscripts exposed distinct protocol and evidence problems. They are part of the development history rather than independent lockbox validations of the final Core:
+
+- [Auditable Evaluation in Peptide–Protein Docking](https://doi.org/10.2139/ssrn.7170499);
+- [A Protocol-Sensitivity Indicator Framework for Reusable Sustainability Evidence Tables](https://doi.org/10.2139/ssrn.6517459);
+- [An Auditable Engineering Informatics Workflow for Plant-Level Digitalization Diagnosis](https://doi.org/10.2139/ssrn.6478802).
 
 ## What unifies the programme
 
@@ -27,3 +35,5 @@ The common object is not a universal predictor. It is the governance chain from 
 - Computational neuroscience is the intended doctoral training direction, not a completed domain identity.
 
 See [`PROJECT_BOUNDARIES.md`](PROJECT_BOUNDARIES.md), [`PUBLICATION_STATUS.md`](PUBLICATION_STATUS.md) and [`AI_AND_AUTHOR_RESPONSIBILITY.md`](AI_AND_AUTHOR_RESPONSIBILITY.md) for the explicit boundaries.
+
+Author identifier: [ORCID 0009-0001-3100-5272](https://orcid.org/0009-0001-3100-5272).

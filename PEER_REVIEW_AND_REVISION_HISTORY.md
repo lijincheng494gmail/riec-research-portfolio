@@ -22,6 +22,22 @@ incomplete; the schedule based on effective sample size was heuristic; the
 three benchmarks were narrow; and statistical uncertainty, sensitivity and
 comparisons with established alternatives were limited.
 
+### 5 May 2026 - first major-revision package
+
+The first response was already substantial. It added the full grouped-risk,
+XPE, BIC-style and hybrid-score definitions; a direct comparison among AIC,
+AICc, BIC-style signals, grouped CV and RIEC-L1; a drying schedule audit over
+`c = 0` to `200`; an effective-sample-size sensitivity audit from `n` to
+`0.25n`; and fold-wise drying errors with sign and Wilcoxon checks. It also
+restricted the claimed scope to deterministic least-squares models in small,
+one-dimensional engineering candidate libraries.
+
+However, this version still described the contribution as a hybrid selection
+layer. Its response treated the schedule as a transparent audit setting but did
+not yet supply a sufficiently clear decision-theoretic capability beyond
+viewing BIC and grouped CV side by side. The new paired tests also exposed that
+the central drying disagreement was not statistically decisive.
+
 ### 12 May 2026 - revision returned for further work before re-review
 
 The first revision was not allowed to proceed merely by renaming the method a
@@ -32,33 +48,49 @@ inconclusive, and stress-test insensitivity to reductions in effective sample
 size weakened any strong claim that effective-sample-size calibration was
 essential.
 
-### Scientific changes made
+### 3 July 2026 - editorial-check resubmission after further reconstruction
 
-The later revision:
+The resubmitted package, still formally carried as R1 in the editorial system,
+changed the identity of the method rather than merely adding more benchmarks.
+The title moved from *hybrid selection layer* to *conflict-resolution layer*.
+The revision:
 
+- distinguished the descriptive evidence ledger from the predeclared decision
+  map that converts it into one conditional recommendation;
 - repositioned RIEC-L1 as a deterministic conflict-resolution operation for a
   finite candidate library, not a new risk estimator or universally superior
   information criterion;
-- defined the evidence ledger, decision map, XPE, hybrid score, candidate-score
-  gaps and switching boundaries explicitly;
+- defined candidate-specific score gaps, a runner-up conflict margin, a
+  pairwise switching condition and an explicit `c` switchpoint;
 - described the schedule as a declared reproducibility choice rather than a
   theoretically optimal rule, and reported schedule sensitivity;
 - limited the role of effective sample size to penalty calibration rather than
   treating it as a validated count of independent observations;
 - retained the inconclusive drying result and described the paired tests as
   exploratory;
+- recognized the Page and Weibull implementations as equivalent
+  parameterizations of the same two-parameter model class;
+- added a deterministic residual-anchored intervention path to audit the
+  decision boundary while explicitly stating that it was neither new empirical
+  validation nor a stochastic simulation;
 - made the small number of independent deployment groups and the resulting
   uncertainty part of the claim boundary; and
 - emphasized the practical value of a predefined, reproducible decision map
   over inconsistent post-hoc interpretation of BIC and grouped-CV rankings.
 
-### 15-16 July 2026 - minor revision and acceptance
+### 15-16 July 2026 - focused R2 minor revision and acceptance
 
 After re-review, the remaining requests concerned practical interpretation,
 schedule-robustness ranges, group-level uncertainty, repository deposition,
-terminology and presentation. The second revision was accepted on 16 July
-2026. The final article therefore records a narrower but more defensible
-contribution than the initial submission.
+terminology, references, presentation and the generative-AI disclosure. R2
+added descriptive grouped-CV error ranges, a compact schedule-stability
+summary, a stronger warning about the small number of independent deployment
+groups, and a terminology audit distinguishing comparison signals, grouped-CV
+risk estimates, the declared score and the decision rule. No benchmark
+observation, model winner, p-value, schedule result or selection output was
+changed. The revision was accepted on 16 July 2026 and published as *Array* 31
+(2026) 101097. The final article therefore records a narrower but more
+defensible contribution than the initial submission.
 
 ## Factory digitalization: substantial revision did not close the evidence gap
 
@@ -127,4 +159,3 @@ These histories produced several durable research practices:
    be inferred from the completeness of a framework.
 7. Some evidence gaps require new data or a narrower claim, not another revision
    of the same analysis.
-

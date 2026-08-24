@@ -10,6 +10,9 @@ than quoted.
 This is a development record, not a claim that reviewers endorsed later RIEC
 projects or that rejection decisions constitute scientific validation.
 
+Detailed public-safe matrices and a checksum-based source register are provided
+in [`review_history/`](review_history/README.md).
+
 ## RIEC-L1: revision changed the identity of the contribution
 
 ### 16 April 2026 - major revision

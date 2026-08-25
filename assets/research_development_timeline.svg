@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="610" viewBox="0 0 1500 610" role="img" aria-labelledby="title desc">
+  <title id="title">Documented development of the RIEC research programme</title>
+  <desc id="desc">A timeline from a pre-RIEC editorial rejection, through RIEC-L1 revision and Factory rejection, to later BCI, Core and Agent research objects.</desc>
+  <rect width="1500" height="610" fill="#ffffff"/>
+  <style>
+    .h1{font:700 31px Arial,sans-serif;fill:#173b63}
+    .sub{font:18px Arial,sans-serif;fill:#546879}
+    .date{font:700 18px Arial,sans-serif;fill:#ffffff}
+    .title{font:700 21px Arial,sans-serif;fill:#173b63}
+    .body{font:16px Arial,sans-serif;fill:#2d3e4e}
+    .small{font:15px Arial,sans-serif;fill:#546879}
+    .card{fill:#f7f9fb;stroke:#ced8e2;stroke-width:2;rx:16}
+    .later{fill:#f1f8f6;stroke:#348b7f;stroke-width:2;rx:16}
+    .line{stroke:#8799aa;stroke-width:5;fill:none}
+  </style>
+  <text class="h1" x="55" y="58">From computational output to bounded evidence authority</text>
+  <text class="sub" x="55" y="90">Fixed artifacts document the changes; rejection is not treated as scientific validation.</text>
+  <path class="line" d="M120 170 H1380"/>
+  <circle cx="180" cy="170" r="13" fill="#b7604e"/>
+  <circle cx="530" cy="170" r="13" fill="#d59b36"/>
+  <circle cx="855" cy="170" r="13" fill="#b7604e"/>
+  <circle cx="1220" cy="170" r="13" fill="#348b7f"/>
+
+  <rect x="80" y="118" width="200" height="34" rx="17" fill="#b7604e"/>
+  <text class="date" x="103" y="141">13 Sep 2025</text>
+  <rect class="card" x="45" y="205" width="285" height="200"/>
+  <text class="title" x="70" y="242">Pre-RIEC / Systems</text>
+  <text class="body" x="70" y="278">Complete deterministic pipeline</text>
+  <text class="body" x="70" y="307">and large artifact package</text>
+  <text class="body" x="70" y="345">Editorial rejection exposed that</text>
+  <text class="body" x="70" y="374">execution volume was not yet</text>
+  <text class="body" x="70" y="398">evidential validity.</text>
+
+  <rect x="430" y="118" width="200" height="34" rx="17" fill="#d59b36"/>
+  <text class="date" x="455" y="141">16 Jul 2026</text>
+  <rect class="card" x="380" y="205" width="300" height="200"/>
+  <text class="title" x="405" y="242">RIEC-L1 accepted</text>
+  <text class="body" x="405" y="278">External novelty and statistics</text>
+  <text class="body" x="405" y="307">challenges forced reconstruction:</text>
+  <text class="body" x="405" y="345">hybrid-score narrative became</text>
+  <text class="body" x="405" y="374">bounded conflict resolution with</text>
+  <text class="body" x="405" y="398">negative evidence retained.</text>
+
+  <rect x="755" y="118" width="200" height="34" rx="17" fill="#b7604e"/>
+  <text class="date" x="785" y="141">2 Aug 2026</text>
+  <rect class="card" x="710" y="205" width="310" height="200"/>
+  <text class="title" x="735" y="242">Factory / RINENG rejected</text>
+  <text class="body" x="735" y="278">Major revision improved auditability,</text>
+  <text class="body" x="735" y="307">cluster-aware validation and simulation.</text>
+  <text class="body" x="735" y="345">It could not create independent</text>
+  <text class="body" x="735" y="374">industrial evidence or prove every</text>
+  <text class="body" x="735" y="398">guard component necessary.</text>
+
+  <rect x="1105" y="118" width="230" height="34" rx="17" fill="#348b7f"/>
+  <text class="date" x="1134" y="141">After 2 Aug 2026</text>
+  <rect class="later" x="1050" y="205" width="400" height="310"/>
+  <text class="title" x="1078" y="242">Post-Factory methodological pivot</text>
+  <text class="body" x="1078" y="282">RIEC-BCI</text>
+  <text class="small" x="1192" y="282">Different deployment questions require</text>
+  <text class="small" x="1192" y="306">different evaluation worlds.</text>
+  <text class="body" x="1078" y="350">RIEC-Core</text>
+  <text class="small" x="1192" y="350">Frozen qualification rules determine</text>
+  <text class="small" x="1192" y="374">which evidence may support which claim.</text>
+  <text class="body" x="1078" y="418">RIEC-Agent</text>
+  <text class="small" x="1192" y="418">Local compliance can fail to compose</text>
+  <text class="small" x="1192" y="442">under persistent shared-evidence search.</text>
+  <text class="small" x="1078" y="487">Later projects stand on their own evidence;</text>
+  <text class="small" x="1078" y="509">earlier rejection supplies history, not endorsement.</text>
+
+  <text class="sub" x="55" y="578">Direction - verification - responsibility: AI expanded execution bandwidth; scientific judgment determined what could be claimed.</text>
+</svg>

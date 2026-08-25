@@ -1,5 +1,24 @@
 # Research timeline
 
+## 0. Pre-RIEC baseline: computational completeness without evidential control
+
+On 13 September 2025, a pre-RIEC manuscript on infrared-interference
+thickness metrology was submitted to *Systems* and was subsequently rejected
+at editorial screening. It assembled cleaning, spectral diagnostics, model
+selection, dual-angle estimation, uncertainty reporting and a supplementary
+software package into one deterministic workflow.
+
+Retrospective audit identified the more important limitation: computational
+completeness had been mistaken for scientific authority. The same finite
+evidence supported development, selection and evaluation; metric definitions
+were not stable across artifacts; some reported estimates and intervals were
+internally inconsistent; and industrial portability was claimed without
+independent metrology reference data. This historical baseline is retained
+because it demonstrates that high AI-assisted output volume did not by itself
+produce a defensible research object.
+
+See [`review_history/SYSTEMS_PRE_RIEC_RETROSPECTIVE.md`](review_history/SYSTEMS_PRE_RIEC_RETROSPECTIVE.md).
+
 ## 1. Finite-library decision support
 
 RIEC-L1 started from a concrete engineering problem: AIC, BIC, cross-validation and stability criteria can disagree even when each is reasonable. The contribution was an auditable conflict-resolution layer for a finite candidate library, not a claim that one criterion is always best.
@@ -9,6 +28,12 @@ RIEC-L1 started from a concrete engineering problem: AIC, BIC, cross-validation 
 Food, factory, environmental, chemistry and related projects exposed recurring problems: clustered observations, mismatched deployment splits, duplicated evidence, proxy uncertainty, incompatible estimands and attractive results that did not justify the desired claim. These projects functioned as sources of design pressure rather than proof of universal cross-domain prediction.
 
 The Factory manuscript also became a documented negative development result. A substantial R1 rebuild added cluster-aware validation, two 500-repetition benchmarks, a formal guard, generator diagnostics, a limited external-validity bridge and a reproducibility package, but it did not close the independent-industrial-validation, threshold-justification, comparator and component-ablation gaps. The journal rejection therefore narrowed the scientific claim rather than being edited out of the programme history. See [`PEER_REVIEW_AND_REVISION_HISTORY.md`](PEER_REVIEW_AND_REVISION_HISTORY.md).
+
+That rejection on 2 August 2026 became a methodological pivot. RIEC-BCI,
+RIEC-Core and RIEC-Agent were all developed afterwards. The later projects do
+not claim validation by the Factory reviewers; they are the author's documented
+response to the unresolved distinction between a reproducible workflow and
+qualified evidence for a bounded claim.
 
 ## 3. Neural evaluation
 
@@ -25,3 +50,12 @@ RIEC-Agent asked a new question: if many agents each obey a local rule but share
 ## Next training direction
 
 The programme motivates a transition toward computational neuroscience: learning the neurobiology, experimental practice and mechanistic questions that cannot be supplied by statistical governance alone.
+
+## Why this is not a rejection narrative
+
+The chronological sequence is evidence of development, not evidence that a
+rejection proves a method correct. Each transition is recorded only when a
+fixed manuscript, decision artifact or public identifier supports the date and
+when the later design change can be stated without transferring reviewer
+endorsement to another paper. The detailed critique-to-design map is available
+in [`review_history/LESSON_TO_DESIGN_MAP.md`](review_history/LESSON_TO_DESIGN_MAP.md).

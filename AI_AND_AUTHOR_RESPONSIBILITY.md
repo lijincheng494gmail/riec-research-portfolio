@@ -2,6 +2,23 @@
 
 AI tools assisted implementation, code review, language editing, literature organization and the mechanical assembly of research artifacts. This assistance substantially increased execution bandwidth.
 
+## Why access to strong AI was not sufficient
+
+The September 2025 pre-RIEC submission is retained as a dated counterexample
+to the claim that model access alone explains the later research programme. It
+already contained extensive AI-assisted code, analysis, writing and packaging,
+yet retrospective audit found unstable metric semantics, insufficiently
+independent evaluation and claims that exceeded the available evidence. Later
+editorial returns and rejection decisions continued after the execution tools
+were available.
+
+What changed was not simply access to a stronger implementation assistant. The
+later programme introduced explicit question selection, evidence-role
+separation, negative-result preservation, protocol freezes, lockboxes, stop/go
+decisions and bounded claims. The fixed chronology and public-safe revision
+records are available in
+[`PEER_REVIEW_AND_REVISION_HISTORY.md`](PEER_REVIEW_AND_REVISION_HISTORY.md).
+
 The author retained responsibility for:
 
 - selecting the scientific question;

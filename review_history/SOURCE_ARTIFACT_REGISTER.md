@@ -17,6 +17,14 @@ linked through their persistent identifiers.
 | Array focused R2 bundle | 15-16 July 2026 | 4,581,981 | `52dcd0b0c09bd88430ee1415d5bd2da27f98d7f96ba86156e131cc128b8c8a6e` | Registered only; contains editorial-system material |
 | Published article | Final version | 2,435,035 | `335fa81490a36240529c702224fd4240b88ad002da27768b8cf70aec2a4bb396` | Public DOI: https://doi.org/10.1016/j.array.2026.101097 |
 
+## Pre-RIEC Systems baseline
+
+| Public-safe label | Stage | Bytes | SHA-256 | Public handling |
+|---|---:|---:|---|---|
+| Systems submission manuscript | Submitted 13 September 2025 | 2,008,322 | `1748ffe02c0f4e63d0f8ed2ad2b74019b1835e94b16e78f1d4b207ff940cd1da` | Registered only; rejected unpublished submission |
+| Systems supplementary package | Submission supplement | 7,400,150 | `2255c89689e95e69e5a53fd49ec12efbda3579e2cc757fa4d253947b7615729f` | Registered only; contains contest material and uncurated historical artifacts |
+| Systems portal-status crop | Public-safe chronology evidence retrieved 25 August 2026 | 38,831 | `b53e677a5d2a79b6bfa7c5c50242a79b5b6a6c5a670f85d620abe274d26cd242` | Redistributed as [`../assets/evidence/systems_editorial_status_2025-09-13.png`](../assets/evidence/systems_editorial_status_2025-09-13.png) |
+
 ## Factory digitalization
 
 | Public-safe label | Stage | Bytes | SHA-256 | Public handling |

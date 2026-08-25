@@ -10,8 +10,31 @@ than quoted.
 This is a development record, not a claim that reviewers endorsed later RIEC
 projects or that rejection decisions constitute scientific validation.
 
-Detailed public-safe matrices and a checksum-based source register are provided
+Detailed public-safe matrices, a pre-RIEC retrospective and a checksum-based source register are provided
 in [`review_history/`](review_history/README.md).
+
+## Pre-RIEC baseline: a complete pipeline was not yet a defensible contribution
+
+### 13 September 2025 - Systems submission
+
+The infrared-interference thickness-metrology manuscript is retained as a
+pre-RIEC baseline. It showed that AI assistance could rapidly expand execution:
+the submission contained an end-to-end deterministic workflow, a long
+manuscript, software interfaces, tables, figures and a supplementary package.
+It was subsequently rejected at editorial screening.
+
+A later author audit found that the scientific object itself had not been
+stabilized. The workflow reused the same very small evidence base across
+development, model choice and evaluation; used the same label for different
+metrics in different artifacts; contained internal inconsistencies between
+model-selection signs, point estimates and intervals; and extended from four
+competition spectra to industrial-portability language without independent
+reference measurements. The public retrospective does not infer that these
+specific issues caused the editorial decision, because the decision letter was
+generic. It records why the author no longer treats deterministic execution or
+artifact volume as equivalent to evidential validity.
+
+See [`review_history/SYSTEMS_PRE_RIEC_RETROSPECTIVE.md`](review_history/SYSTEMS_PRE_RIEC_RETROSPECTIVE.md).
 
 ## RIEC-L1: revision changed the identity of the contribution
 
@@ -146,6 +169,26 @@ shows that better logging, more simulation and clearer claims cannot substitute
 for missing external evidence or establish that every guard component is
 necessary.
 
+## Post-Factory pivot: from workflow audit to evidence authority
+
+RIEC-BCI, RIEC-Core and RIEC-Agent were developed after the 2 August Factory
+decision. This ordering matters because it makes the methodological response
+auditable:
+
+- RIEC-BCI treated within-session, cross-session, cross-subject and dataset
+  transport settings as different evidence worlds rather than interchangeable
+  validation scores;
+- RIEC-Core separated protocol identity, evidence qualification,
+  non-compensatory gates, bounded actions and claim authority, and closed its
+  development boundary before opening the Neuro lockboxes; and
+- RIEC-Agent tested the further failure that can occur when locally compliant
+  agents repeatedly consume shared evidence across claims, aliases and rounds.
+
+These later projects are not represented as fixes requested or endorsed by the
+Factory reviewers. They are the author's subsequent research response to the
+unresolved problem exposed by the rejected revision: an auditable pipeline can
+still lack the evidence required for its strongest claim.
+
 ## Lessons carried forward
 
 These histories produced several durable research practices:
@@ -162,3 +205,7 @@ These histories produced several durable research practices:
    be inferred from the completeness of a framework.
 7. Some evidence gaps require new data or a narrower claim, not another revision
    of the same analysis.
+8. AI-assisted execution can scale artifact production without stabilizing the
+   research question, metric semantics or evidence boundary.
+9. Local procedural compliance must be tested for composition when evidence is
+   shared across multiple adaptive actors.

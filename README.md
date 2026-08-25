@@ -1,10 +1,33 @@
 # RIEC research portfolio
 
-This repository is the public map of Jincheng Li's RIEC research programme. It explains how the projects relate, what each project demonstrates, and where each claim stops.
+This repository is the public map of Jincheng Li's RIEC research programme. It explains how the projects relate, what each project demonstrates, where each claim stops, and how failed submissions and external criticism changed the programme.
 
 RIEC began with a model-selection problem: several reasonable analysis procedures can recommend different actions from the same evidence. The programme then moved from finite candidate libraries to evaluation design, protocol-to-claim governance and, finally, distributed adaptive search by multiple AI agents.
 
 ![Research trajectory](assets/riec_research_trajectory.svg)
+
+## A documented development path
+
+The programme did not begin as a mature governance framework. A September
+2025 pre-RIEC submission demonstrated that an AI-assisted workflow could
+rapidly produce an extensive deterministic pipeline, manuscript and
+supplementary package while still lacking stable metric definitions,
+independent validation and a defensible claim boundary. It was rejected at
+editorial screening. The later Factory manuscript became more auditable and
+survived into substantial revision, but its August 2026 rejection showed that
+documentation and simulation could not replace independent external evidence.
+
+RIEC-BCI, RIEC-Core and RIEC-Agent were developed after that Factory decision.
+They respectively made the evaluation world explicit, separated frozen
+protocol-to-claim authority from performance, and tested whether local
+compliance composes under distributed adaptive search.
+
+![Documented research development](assets/research_development_timeline.svg)
+
+The public-safe evidence trail is in
+[`PEER_REVIEW_AND_REVISION_HISTORY.md`](PEER_REVIEW_AND_REVISION_HISTORY.md)
+and [`review_history/`](review_history/README.md). Raw editorial correspondence
+is not redistributed.
 
 ## Four stages
 
@@ -34,6 +57,6 @@ The common object is not a universal predictor. It is the governance chain from 
 - It does not claim clinical readiness, neural-mechanistic discovery or universal AI-governance validity.
 - Computational neuroscience is the intended doctoral training direction, not a completed domain identity.
 
-See [`PROJECT_BOUNDARIES.md`](PROJECT_BOUNDARIES.md), [`PUBLICATION_STATUS.md`](PUBLICATION_STATUS.md), [`PEER_REVIEW_AND_REVISION_HISTORY.md`](PEER_REVIEW_AND_REVISION_HISTORY.md) and [`AI_AND_AUTHOR_RESPONSIBILITY.md`](AI_AND_AUTHOR_RESPONSIBILITY.md) for the explicit boundaries, external-critique history and author-responsibility statement.
+See [`PROJECT_BOUNDARIES.md`](PROJECT_BOUNDARIES.md), [`PUBLICATION_STATUS.md`](PUBLICATION_STATUS.md), [`PEER_REVIEW_AND_REVISION_HISTORY.md`](PEER_REVIEW_AND_REVISION_HISTORY.md), [`review_history/LESSON_TO_DESIGN_MAP.md`](review_history/LESSON_TO_DESIGN_MAP.md) and [`AI_AND_AUTHOR_RESPONSIBILITY.md`](AI_AND_AUTHOR_RESPONSIBILITY.md) for the explicit boundaries, external-critique history, design lineage and author-responsibility statement.
 
 Author identifier: [ORCID 0009-0001-3100-5272](https://orcid.org/0009-0001-3100-5272).

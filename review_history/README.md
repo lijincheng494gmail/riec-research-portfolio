@@ -1,7 +1,12 @@
 # Public revision evidence
 
-This directory provides public-safe, source-grounded records of how external
-editorial and reviewer criticism changed two RIEC manuscripts.
+This directory provides public-safe, source-grounded records of how an early
+editorial rejection and later external criticism changed the RIEC research
+programme.
+
+- [`SYSTEMS_PRE_RIEC_RETROSPECTIVE.md`](SYSTEMS_PRE_RIEC_RETROSPECTIVE.md)
+  records the September 2025 baseline in which a computationally complete
+  AI-assisted pipeline was not yet a defensible scientific contribution.
 
 - [`ARRAY_CHANGE_MATRIX.md`](ARRAY_CHANGE_MATRIX.md) follows RIEC-L1 from the
   first major revision through editorial return, reconstruction, minor revision
@@ -11,6 +16,9 @@ editorial and reviewer criticism changed two RIEC manuscripts.
   rejection.
 - [`SOURCE_ARTIFACT_REGISTER.md`](SOURCE_ARTIFACT_REGISTER.md) records the
   source-artifact roles, sizes and SHA-256 digests used to verify this history.
+- [`LESSON_TO_DESIGN_MAP.md`](LESSON_TO_DESIGN_MAP.md) separates documented
+  external criticism from the author's later interpretation and maps the
+  resulting design changes into RIEC-BCI, RIEC-Core and RIEC-Agent.
 
 ## Public-disclosure boundary
 

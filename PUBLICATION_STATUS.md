@@ -9,7 +9,7 @@ This file records durable public facts and a small number of explicitly dated su
 | RIEC-L1 | Peer-reviewed article published in *Array* 31 (2026), 101097 | https://doi.org/10.1016/j.array.2026.101097 |
 | RIEC-Core | Public SSRN preprint; reframed manuscript submission-tracking status: under review at *Knowledge-Based Systems* as of 3 September 2026 (`KNOSYS-D-26-19947`) | https://doi.org/10.2139/ssrn.7264499 |
 | RIEC-Agent | Public SSRN preprint and code-and-results projection | https://doi.org/10.2139/ssrn.7298738 · https://github.com/lijincheng494gmail/riec-agent |
-| RIEC-BCI | Submission-tracking status: under review at *Array* as of 2 September 2026 (`ARRAY-D-26-05336`); public preprint pending | https://github.com/lijincheng494gmail/riec-bci |
+| RIEC-BCI | Public preprint: [SSRN, DOI 10.2139/ssrn.7353471](https://doi.org/10.2139/ssrn.7353471). Submission-tracking status: under review at *Array* as of 2 September 2026 (`ARRAY-D-26-05336`) | https://github.com/lijincheng494gmail/riec-bci |
 | Peptide–protein docking | Public SSRN preprint | https://doi.org/10.2139/ssrn.7170499 |
 | Sustainability evidence tables | Public SSRN preprint | https://doi.org/10.2139/ssrn.6517459 |
 | Factory digitalization | Public SSRN preprint | https://doi.org/10.2139/ssrn.6478802 |

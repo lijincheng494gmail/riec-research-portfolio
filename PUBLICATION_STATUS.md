@@ -1,15 +1,15 @@
 # Publication and artifact status
 
-Snapshot date: 25 August 2026.
+Snapshot date: 3 September 2026.
 
 This file records durable public facts and a small number of explicitly dated submission snapshots. Current journal-review status should always be checked on the relevant submission portal.
 
 | Work | Durable status | Persistent identifier or public artifact |
 |---|---|---|
 | RIEC-L1 | Peer-reviewed article published in *Array* 31 (2026), 101097 | https://doi.org/10.1016/j.array.2026.101097 |
-| RIEC-Core | Public SSRN preprint | https://doi.org/10.2139/ssrn.7264499 |
+| RIEC-Core | Public SSRN preprint; reframed manuscript submission-tracking status: under review at *Knowledge-Based Systems* as of 3 September 2026 (`KNOSYS-D-26-19947`) | https://doi.org/10.2139/ssrn.7264499 |
 | RIEC-Agent | Public SSRN preprint and code-and-results projection | https://doi.org/10.2139/ssrn.7298738 · https://github.com/lijincheng494gmail/riec-agent |
-| RIEC-BCI | Transferred journal manuscript submitted to *Array* on 24 August 2026; public preprint pending | https://github.com/lijincheng494gmail/riec-bci |
+| RIEC-BCI | Submission-tracking status: under review at *Array* as of 2 September 2026 (`ARRAY-D-26-05336`); public preprint pending | https://github.com/lijincheng494gmail/riec-bci |
 | Peptide–protein docking | Public SSRN preprint | https://doi.org/10.2139/ssrn.7170499 |
 | Sustainability evidence tables | Public SSRN preprint | https://doi.org/10.2139/ssrn.6517459 |
 | Factory digitalization | Public SSRN preprint | https://doi.org/10.2139/ssrn.6478802 |
